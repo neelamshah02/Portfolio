@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'neelamwebapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1632b3c84e474d3db1877e7bc853211d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_38948298791d4b8fbb0383c9d9b2b9e0 }}
         package: .
